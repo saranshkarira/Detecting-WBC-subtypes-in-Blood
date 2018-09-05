@@ -31,4 +31,4 @@ and then  design an optimum CNN for this task to identify and differentiate betw
 - With this technique, train accuracy soon converged to over 99.68% in mere 2 epochs, this meant that the model is working and is sufficient.
 - Putting back all the regularization so now it can generalize for the new data.
 
-### The model gave 91.6% accuracy at 100 epochs, this is pretty good given that the orignal dataset only contained 349 images, that too divided unequally(207 for one). Had it been more data the accuracy would further escalate rapidly.
+### The model gave 91.6% test accuracy at 100 epochs, this is pretty good given that the orignal dataset only contained 349 images, that too divided unequally(207 for one). Had it been more data the accuracy would further escalate rapidly.
